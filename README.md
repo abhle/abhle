@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhle
-- 👀 I’m interested in Writing about open source topics, programming.
+- 👀 I’m interested in writing about open source topics, programming.
 - 🌱 I’m currently learning Python (again).
 - 💞️ I’m looking to collaborate on Code Review, Automation
 
